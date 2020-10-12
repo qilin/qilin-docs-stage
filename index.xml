@@ -42,12 +42,8 @@ It’s not a technical limit, but you can take into account, that the descriptio
       
       <guid>http://docs.stg.qilin.super.com/docs/media/</guid>
       <description>Media A quality game matters the most but screenshots play an important role in the success of your game too.
-Cover image The cover image is used as a special featuring block on the store home page at the very top of the page.
-This image is the first impression the game gives your customers.
- Requirements:
- Size: 2160x1215 px (aspect ratio 1.77)
- Format: PNG, JPEG
-       Game video The YouTube video is used on the game&amp;rsquo;s store page in the screenshot carousel.</description>
+Your game images can be displayed on all devices including 4K and Retina displays. After uploading images, we will automatically resize it for Full HD and other displays.
+Cover image The cover image is used as a special featuring block on the store home page at the very top of the page.</description>
     </item>
     
     <item>
