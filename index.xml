@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview on Qilin Documentation</title>
+    <title>Overview on Super!Store Documentation</title>
     <link>http://docs.stg.qilin.super.com/</link>
-    <description>Recent content in Overview on Qilin Documentation</description>
+    <description>Recent content in Overview on Super!Store Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -17,9 +17,8 @@
       
       <guid>http://docs.stg.qilin.super.com/docs/descriptions/</guid>
       <description>Descriptions and links Describe your game with an impressive tagline and description. The descriptions help you stand out from the mass of games.
-Tagline A tagline is displayed on a store page.
-Be sure, the one who likes the short description will not miss your game. If you catch people with a tagline they will go deeper to the full description.
- Go to your game&amp;rsquo;s store page on Descriptions tab &amp;gt; Tagline to fill in a brief awesome tagline.</description>
+Tagline A tagline is displayed on a store page. The tagline provides a summary of a web page. Search engines show this page description in search results.
+It’s not a technical limit, but you can take into account, that the description length depends on the display width, search engine and others.</description>
     </item>
     
     <item>
@@ -28,11 +27,12 @@ Be sure, the one who likes the short description will not miss your game. If you
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.qilin.super.com/docs/general/</guid>
-      <description>Store presence Qilin allows you to create and adjust the content of your store page.
-There are two modes to view the store page - editing mode and preview mode. You can preview the store page anytime to review applied changes.
+      <description>Store presence Super!Store allows you to create and adjust the content of your store page.
     General data  Go to your game&amp;rsquo;s store page on General tab to fill in the general data:
   Game title
- Developers</description>
+ Developers (multiple values separated by commas)
+ Publishers (multiple values separated by commas)
+      Next steps   TODO  Questions? Support We are always happy to help with a code, improve a guide or consider a feature.</description>
     </item>
     
     <item>
@@ -44,8 +44,10 @@ There are two modes to view the store page - editing mode and preview mode. You 
       <description>Media A quality game matters the most but screenshots play an important role in the success of your game too.
 Cover image The cover image is used as a special featuring block on the store home page at the very top of the page.
 This image is the first impression the game gives your customers.
- Requirements: - Size: 2160x1215 px (aspect ratio 1.77) - Format: PNG, JPEG
-     Game video The YouTube video is used on the game&amp;rsquo;s store page in the screenshot carousel.</description>
+ Requirements:
+ Size: 2160x1215 px (aspect ratio 1.77)
+ Format: PNG, JPEG
+       Game video The YouTube video is used on the game&amp;rsquo;s store page in the screenshot carousel.</description>
     </item>
     
     <item>
@@ -55,7 +57,7 @@ This image is the first impression the game gives your customers.
       
       <guid>http://docs.stg.qilin.super.com/docs/languages/</guid>
       <description> Supported Languages  Go to your game&amp;rsquo;s store page on General tab to select the languages:
-     Next steps   TODO  Questions? Support We are always happy to help with a code, improve a guide or consider a feature.  GitHub Qilin is an open-source digital distribution platform for game developers and publishers.   </description>
+     Next steps   TODO  Questions? Support We are always happy to help with a code, improve a guide or consider a feature.  GitHub Super!Store is an open-source digital distribution platform for game developers and publishers.   </description>
     </item>
     
     <item>
@@ -64,7 +66,7 @@ This image is the first impression the game gives your customers.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.qilin.super.com/docs/tags/</guid>
-      <description>Help customers quickly search your game Qilin uses tags, genres and features to make customers relevant search. It will be listed in the navigation menu above the name of your product, also in filters. Depending on it, Qilin shows your game in the similar games block.
+      <description>Help customers quickly search your game Super!Store uses tags, genres and features to make customers relevant search. It will be listed in the navigation menu above the name of your product, also in filters. Depending on it, Super!Store shows your game in the similar games block.
 Tags Select the most applicable meanings to your game. Top 10 tags will help customers find your game from a mass of similar genres.</description>
     </item>
     
