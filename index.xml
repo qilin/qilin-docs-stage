@@ -61,6 +61,18 @@ Cover image The cover image is used as a special featuring block on the store ho
     </item>
     
     <item>
+      <title>Supported Platforms</title>
+      <link>http://docs.stg.qilin.super.com/docs/platforms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.qilin.super.com/docs/platforms/</guid>
+      <description>Supported operation systems Tell customers what platform settings your product supports for operation systems: - Microsoft Windows - Mac OS - Linux.
+You can add the minimum and recommended parameters: - OS - GPU (Direct X) - CPU - RAM - Storage (Gb, Mb) and other.
+ Go to your game&amp;rsquo;s store page on the General tab to specify supported platform settings:
+     Next steps   TODO  Questions?</description>
+    </item>
+    
+    <item>
       <title>Tags Features Genre</title>
       <link>http://docs.stg.qilin.super.com/docs/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
