@@ -52,8 +52,12 @@ Cover image The cover image is used as a special featuring block on the store ho
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.qilin.super.com/docs/languages/</guid>
-      <description> Supported Languages  Go to your game&amp;rsquo;s store page on General tab to select the languages:
-     Next steps   TODO  Questions? Support We are always happy to help with a code, improve a guide or consider a feature.  GitHub Super!Store is an open-source digital distribution platform for game developers and publishers.   </description>
+      <description>In-game localization Specify in-game localization for Subtitles, Interface and Audio:
+ Interface — all in-game menu and interface displayed in this language.
+ Audio — each phrase translated and sounded in the specified language.
+ Subtitles — each phrase accompanied by subtitles in this language.
+  The default language is English, and you can also add other languages.
+ Go to your game&amp;rsquo;s store page on the General tab to select languages:</description>
     </item>
     
     <item>
