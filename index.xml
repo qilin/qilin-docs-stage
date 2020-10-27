@@ -5,18 +5,14 @@
     <link>http://docs.stg.qilin.super.com/</link>
     <description>Recent content in Overview on Super!Store Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://docs.stg.qilin.super.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="http://docs.stg.qilin.super.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Descriptions and links</title>
       <link>http://docs.stg.qilin.super.com/docs/descriptions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.qilin.super.com/docs/descriptions/</guid>
-      <description>Descriptions and links Describe your game with an impressive tagline and description. The descriptions help you stand out from the mass of games.
+      <description>Descriptions and links  Describe your game with an impressive tagline and description. The descriptions help you stand out from the mass of games.
 Tagline A tagline is displayed on a store page. The tagline provides a summary of a web page. Search engines show this page description in search results.
 It’s not a technical limit, but you can take into account, that the description length depends on the display width, search engine and others.</description>
     </item>
@@ -27,12 +23,12 @@ It’s not a technical limit, but you can take into account, that the descriptio
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.qilin.super.com/docs/general/</guid>
-      <description>Store presence Super!Store allows you to create and adjust the content of your store page.
+      <description>Store presence  Super!Store allows you to create and adjust the content of your store page.
     General data  Go to your game&amp;rsquo;s store page on the General tab to fill in the general data:
-  Game title
- Developers (multiple values separated by commas)
- Publishers (multiple values separated by commas)
-      Next steps   TODO  Questions? Support We are always happy to help with a code, improve a guide or consider a feature.</description>
+   Game title
+  Developers (multiple values separated by commas)
+  Publishers (multiple values separated by commas)
+       Next steps   TODO   Questions?</description>
     </item>
     
     <item>
@@ -41,9 +37,53 @@ It’s not a technical limit, but you can take into account, that the descriptio
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.qilin.super.com/docs/media/</guid>
-      <description>Media A quality game matters the most but screenshots play an important role in the success of your game too.
+      <description>Media  A quality game matters the most but screenshots play an important role in the success of your game too.
 Your game images can be displayed on all devices including 4K and Retina displays. After uploading images, we will automatically resize it for Full HD and other displays.
 Cover image The cover image is used as a special featuring block on the store home page at the very top of the page.</description>
+    </item>
+    
+    <item>
+      <title>Payments</title>
+      <link>http://docs.stg.qilin.super.com/docs/payments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.qilin.super.com/docs/payments/</guid>
+      <description>Payments  TODO
+ Next steps   TODO   Questions? Support We are always happy to help with a code, improve a guide or consider a feature.  GitHub Super!Store is an open-source digital distribution platform for game developers and publishers.   </description>
+    </item>
+    
+    <item>
+      <title>Pricing</title>
+      <link>http://docs.stg.qilin.super.com/docs/pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.qilin.super.com/docs/pricing/</guid>
+      <description>Pricing and Sales  Pricing TODO
+Discounting TODO
+Sales TODO
+ Next steps   TODO   Questions? Support We are always happy to help with a code, improve a guide or consider a feature.  GitHub Super!Store is an open-source digital distribution platform for game developers and publishers.   </description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>http://docs.stg.qilin.super.com/docs/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.qilin.super.com/docs/publication/</guid>
+      <description>Publication  Store page moderation TODO
+Super!Utility Tool TODO
+ Next steps   TODO   Questions? Support We are always happy to help with a code, improve a guide or consider a feature.  GitHub Super!Store is an open-source digital distribution platform for game developers and publishers.   </description>
+    </item>
+    
+    <item>
+      <title>Ratings</title>
+      <link>http://docs.stg.qilin.super.com/docs/ratings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.stg.qilin.super.com/docs/ratings/</guid>
+      <description>Ratings  Specify the age ratings for different regions. User will see the rating depending on his country determined by Store. All ratings are marked with an image.
+ Go to your game&amp;rsquo;s store page on the Ratings tab to select the age rating:
+  ESRB (North America) - In addition, you need to select reasons from the Content Descritors list and select the Interactive Elements list. PEGI (EUROPE) BBFC (UK) USK (Germany) OFLC AU (Australia) OFLC NZ (New Zealand) CERO (Japan) KGRB Game Rating Board (Korea) Media Development Authority (Singapore) Film and Publication Board (South Africa) Content Rating Law (Russia) AGCOM (Italy) IGRS (Indonesia) ESRA (Iran) GCAM (Saudi Arabia) Game Software Rating Regulations (Taiwan) NMC (United Arab Emirates) Brazilian advisory rating system (Brazil)  You can choose options to show restriction notifications:</description>
     </item>
     
     <item>
@@ -52,10 +92,10 @@ Cover image The cover image is used as a special featuring block on the store ho
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.qilin.super.com/docs/languages/</guid>
-      <description>In-game localization Specify in-game localization for Subtitles, Interface and Audio:
- Interface — all in-game menu and interface displayed in this language.
- Audio — each phrase translated and sounded in the specified language.
- Subtitles — each phrase accompanied by subtitles in this language.
+      <description>In-game localization  Specify in-game localization for Subtitles, Interface and Audio:
+  Interface — all in-game menu and interface displayed in this language.
+  Audio — each phrase translated and sounded in the specified language.
+  Subtitles — each phrase accompanied by subtitles in this language.
   The default language is English, and you can also add other languages.
  Go to your game&amp;rsquo;s store page on the General tab to select languages:</description>
     </item>
@@ -66,10 +106,10 @@ Cover image The cover image is used as a special featuring block on the store ho
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.qilin.super.com/docs/platforms/</guid>
-      <description>Supported operation systems Tell customers what platform settings your product supports for operation systems: - Microsoft Windows - Mac OS - Linux.
-You can add the minimum and recommended parameters: - OS - GPU (Direct X) - CPU - RAM - Storage (Gb, Mb) and other.
- Go to your game&amp;rsquo;s store page on the General tab to specify supported platform settings:
-     Next steps   TODO  Questions?</description>
+      <description>Supported operation systems  Tell customers what platform settings your product supports for operation systems:
+ Microsoft Windows Mac OS Linux.  You can add the minimum and recommended parameters:
+ OS GPU (Direct X) CPU RAM Storage (Gb, Mb) and other.   Go to your game&amp;rsquo;s store page on the General tab to specify supported platform settings:
+      Next steps   TODO   Questions?</description>
     </item>
     
     <item>
@@ -78,7 +118,7 @@ You can add the minimum and recommended parameters: - OS - GPU (Direct X) - CPU 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.qilin.super.com/docs/tags/</guid>
-      <description>Help customers quickly search your game Super!Store uses tags, genres and features to make customers relevant search. It will be listed in the navigation menu above the name of your product, also in filters. Depending on it, Super!Store shows your game in the similar games block.
+      <description>Help customers quickly search your game  Super!Store uses tags, genres and features to make customers relevant search. It will be listed in the navigation menu above the name of your product, also in filters. Depending on it, Super!Store shows your game in the similar games block.
 Tags Select the most applicable meanings to your game. Top 10 tags will help customers find your game from a mass of similar genres.</description>
     </item>
     
