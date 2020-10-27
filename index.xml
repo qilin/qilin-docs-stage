@@ -82,7 +82,7 @@ Super!Utility Tool TODO
       
       <guid>http://docs.stg.qilin.super.com/docs/ratings/</guid>
       <description>Ratings  Specify the age ratings for different regions. User will see the rating depending on his country determined by Store. All ratings are marked with an image.
- Go to your game&amp;rsquo;s store page on the Ratings tab to select the age rating:
+ Go to your game&amp;rsquo;s store page on the Ratings tab to select the rating:
   ESRB (North America) - In addition, you need to select reasons from the Content Descritors list and select the Interactive Elements list. PEGI (EUROPE) BBFC (UK) USK (Germany) OFLC AU (Australia) OFLC NZ (New Zealand) CERO (Japan) KGRB Game Rating Board (Korea) Media Development Authority (Singapore) Film and Publication Board (South Africa) Content Rating Law (Russia) AGCOM (Italy) IGRS (Indonesia) ESRA (Iran) GCAM (Saudi Arabia) Game Software Rating Regulations (Taiwan) NMC (United Arab Emirates) Brazilian advisory rating system (Brazil)  You can choose options to show restriction notifications:</description>
     </item>
     
