@@ -58,10 +58,9 @@ Cover image The cover image is used as a special featuring block on the store ho
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://docs.stg.qilin.super.com/docs/pricing/</guid>
-      <description>Pricing and Sales  Pricing TODO
-Discounting TODO
-Sales TODO
- Next steps   TODO   Questions? Support We are always happy to help with a code, improve a guide or consider a feature.  GitHub Super!Store is an open-source digital distribution platform for game developers and publishers.   </description>
+      <description>Pricing and Sales  Pricing Default currency You need to set a price in the default currency (USD by default) for the following purposes:
+ to use as the cost of the game for countries without specified price in their national currency, to calculate suggested prices for other national currencies.   Go to your game&amp;rsquo;s store page on the Price tab &amp;gt; the Default currency section
+After the default price set, we offer appropriate regional prices.</description>
     </item>
     
     <item>
